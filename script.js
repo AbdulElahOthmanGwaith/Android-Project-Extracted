@@ -1,0 +1,1 @@
+console.log("الموقع يعمل بشكل صحيح على GitHub Pages!");
